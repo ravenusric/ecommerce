@@ -1,0 +1,12 @@
+.thumbnail img {
+  max-height: 150px;
+}
+
+.price {
+  font-weight: bold;
+}
+
+.row {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
