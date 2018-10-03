@@ -10,3 +10,7 @@
   margin-bottom: 20px;
   margin-top: 20px;
 }
+
+body {
+  background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+}
